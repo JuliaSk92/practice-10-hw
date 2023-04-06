@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "serve-sli": "live-server",
+    "serve-node": "node server.js"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
